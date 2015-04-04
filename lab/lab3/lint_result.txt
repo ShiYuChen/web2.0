@@ -1,0 +1,24 @@
+************* Module music
+C:  7, 0: Trailing whitespace (trailing-whitespace)
+C: 29, 0: Line too long (81/80) (line-too-long)
+W: 31, 0: Unnecessary semicolon (unnecessary-semicolon)
+C: 34, 0: Line too long (130/80) (line-too-long)
+C: 35, 0: Wrong continued indentation.
+            ))
+            ^                       | (bad-continuation)
+C: 39, 0: No space allowed around keyword argument assignment
+            allfile.sort(key = lambda x: x.size)
+                             ^ (bad-whitespace)
+W: 41, 0: Found indentation with tabs instead of spaces (mixed-indentation)
+C: 41, 0: No space allowed around keyword argument assignment
+	self.render("music.html", title = "Music Viewer", files=allfile)
+                                 ^ (bad-whitespace)
+C:  1, 0: Missing module docstring (missing-docstring)
+C: 11, 0: Missing class docstring (missing-docstring)
+C: 11, 0: Old-style class defined. (old-style-class)
+R: 11, 0: Too few public methods (0/2) (too-few-public-methods)
+C: 22, 0: Missing class docstring (missing-docstring)
+W: 22, 0: Method 'data_received' is abstract in class 'RequestHandler' but is not overridden (abstract-method)
+R: 22, 0: Too many public methods (62/20) (too-many-public-methods)
+C: 43, 0: Invalid constant name "application" (invalid-name)
+C: 51, 4: Invalid constant name "http_server" (invalid-name)

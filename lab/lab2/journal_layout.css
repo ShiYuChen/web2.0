@@ -1,0 +1,60 @@
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url(images/background.gif);
+}
+ 
+div.all {
+	border: white 10px solid;
+	background-color: white;
+}
+ 
+div.a {
+	background-color: #A8F0F0;
+	text-align: right;
+	font-size: 18pt;
+}
+ 
+div.b {
+	font-size: 14pt;
+}
+
+.c {
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	margin-top: 10px;
+	padding: 10px;
+	overflow: hidden;
+	margin-left: 160px;
+}
+
+
+.d {
+	border: 5px #009097 solid;
+	width: 100px;
+	margin: 15px;
+	padding: 10px;
+	float: left;
+	background-color: #C2E9E9;
+}
+
+.clear {
+	clear: both;
+}
+
+span.s {
+	border-bottom: 2px #009097 dashed;
+}
+
+.hov:hover {
+	color: yellow;
+}
+
+img:hover {
+	background-color: yellow;
+}
+
+.flo {
+	display: block;
+	float: right;
+}
