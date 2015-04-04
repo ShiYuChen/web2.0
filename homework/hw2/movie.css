@@ -1,0 +1,121 @@
+body {
+	margin: 0;
+	background-image: url("images/background.png");
+	font-size: 8pt;
+	font-family: "Verdana", "Tahoma", sans-serif;
+}
+
+.banner {
+	background-image: url("images/bannerbackground.png");
+	text-align: center;
+	height: 50px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 24pt;
+}
+
+.all {
+	border: 4px solid gray;
+	width: 800px;
+	margin: auto;
+}
+
+.general {
+	margin-bottom: -2px;
+	float:right;
+	width: 250px;
+}
+
+.rotten {
+	background-image: url("images/rottenbackground.png");
+	height: 83px;
+}
+
+.s1 {
+	font-size: 48pt;
+	font-weight: bold;
+	color: red;
+	vertical-align: bottom;
+}
+
+.s2 {
+	font-size: 8pt;
+	color: white;
+	vertical-align: 100%;
+}
+
+.right {
+	float: right;
+	width: 230px;
+	padding:10px;
+	background-color: #A2B964;
+	font-size: 8pt;
+	font-family: "Arial", sans-serif;
+	clear: right;
+}
+
+.right dt {
+	font-weight: bold;
+	padding-top: 1em;
+}
+
+.left {
+	width : 550px;
+	position: absolute;
+}
+
+.b {
+	font-size: 8pt;
+	font-weight: bold;
+	border:gray 2px solid;
+	padding: 8px;
+	background-color: #E1D697;
+}
+
+.b img {
+	float: left;
+}
+
+.ll {
+	float: left;
+	width: 47%;
+	margin: 2%;
+}
+
+.rr {
+	float: left;
+	width: 47%;
+	margin-top: 2%;
+
+}
+
+.end {
+	clear: right;
+	text-align: center;
+	background-color: #A2B964;
+	padding: 5px;
+}
+
+.c {
+	margin-bottom: 3em;
+}
+
+p.c img {
+	float: left;
+}
+
+.xieti {
+	font-style: italic;
+}
+
+.check {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+}
+
+p {
+	list-style-image: url("wdewfcefvrfvrvgfrvgbtrfgrtgrtgrtgregrg");
+}
